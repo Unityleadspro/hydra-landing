@@ -1,0 +1,49 @@
+{
+  "brand": "Unity Leads Pro",
+  "stripe_account_display_name": "Unityleadspro",
+  "products": [
+    {
+      "name": "AI Affiliate Blueprint 2026",
+      "product_id": "prod_UH9eOBUpNbYQO1",
+      "price_id": "price_1TIbLQKOK7HdwghXZf1yltws",
+      "amount_usd": 27,
+      "type": "one_time",
+      "status": "existing_stripe_product"
+    },
+    {
+      "name": "Passive Income Automation Toolkit",
+      "product_id": "prod_UH9eMT7GHpMegU",
+      "price_id": "price_1TIbLQKOK7HdwghXlzB0MBJx",
+      "amount_usd": 47,
+      "type": "one_time",
+      "status": "existing_stripe_product"
+    },
+    {
+      "name": "AI Monetization Coaching Session",
+      "product_id": "prod_UH9emVLOzVwXVb",
+      "price_id": "price_1TIbLRKOK7HdwghXl0JnLo9d",
+      "amount_usd": 97,
+      "type": "one_time",
+      "status": "existing_stripe_product"
+    },
+    {
+      "name": "Coaching",
+      "product_id": "prod_UF2BClqIu8GC7f",
+      "price_id": "price_1TGY7IKOK7HdwghX8Ir57HXd",
+      "amount_usd": 60,
+      "type": "one_time",
+      "status": "existing_stripe_product"
+    }
+  ],
+  "known_payment_activity": [
+    {
+      "amount_usd": 97,
+      "status": "succeeded"
+    },
+    {
+      "amount_usd": 60,
+      "status": "requires_payment_method"
+    }
+  ],
+  "next_step": "Create Stripe payment links for each price and paste the public checkout URLs into the landing page or environment config."
+}
