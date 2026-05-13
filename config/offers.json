@@ -1,0 +1,103 @@
+{
+  "brand": "Unity Leads Pro",
+  "internal_engine": "Hydra",
+  "base44_app_id": "69bbfdf5ab3f450f3e3db28a",
+  "approved_maxbounty_offers_from_base44": [
+    {
+      "name": "The Framery Eyewear - RevShare (US)",
+      "campaign_id": 23268,
+      "commission": "11% of sale",
+      "epc": 0.12,
+      "category": "Shopping & E-Commerce",
+      "countries": "US",
+      "tracking_link_status": "missing"
+    },
+    {
+      "name": "Science and Nature - Health Platform - CPS (CA)",
+      "campaign_id": 30463,
+      "commission": "$9.00 per lead",
+      "epc": 0.38,
+      "category": "Health & Wellness",
+      "countries": "CA",
+      "tracking_link_status": "missing"
+    },
+    {
+      "name": "Mowrator - Autonomous Electric Mower - RevShare",
+      "campaign_id": 30246,
+      "commission": "7.5% of sale",
+      "epc": 0.3,
+      "category": "Shopping & E-Commerce",
+      "countries": "AU, BE, CA, DE, DK, FI, FR, GB, IE, IT, US",
+      "tracking_link_status": "missing"
+    },
+    {
+      "name": "Ask a Lawyer On Call - Legal Consultation - CPS",
+      "campaign_id": 22646,
+      "commission": "$22.50 per lead",
+      "epc": 0.084,
+      "category": "Legal Services",
+      "countries": "AU, CA, GB, IE, NZ, US",
+      "tracking_link_status": "missing"
+    },
+    {
+      "name": "Air Doctor - Medical Care Abroad - CPS (WW)",
+      "campaign_id": 29713,
+      "commission": "$15.00 per lead",
+      "epc": 0.375,
+      "category": "Health & Wellness",
+      "countries": "WW",
+      "tracking_link_status": "missing"
+    },
+    {
+      "name": "Cashably - Loans up to $50K - RevShare (US)",
+      "campaign_id": 31697,
+      "commission": "56.25% of sale",
+      "epc": 0.28,
+      "category": "Financial",
+      "countries": "US",
+      "tracking_link_status": "missing"
+    },
+    {
+      "name": "Arcade.Online - Games and Prizes - Revshare",
+      "campaign_id": 31736,
+      "commission": "11.25% of sale",
+      "epc": 0.2625,
+      "category": "Gaming",
+      "countries": "AU, CA, DE, SG, US",
+      "tracking_link_status": "missing"
+    },
+    {
+      "name": "Teleflora - Flower Delivery - CPS (US,CA)",
+      "campaign_id": 20755,
+      "commission": "9% of sale",
+      "epc": 0.225,
+      "category": "Shopping & E-Commerce",
+      "countries": "CA, US",
+      "tracking_link_status": "missing"
+    }
+  ],
+  "priority_approval_targets": [
+    {
+      "name": "Gusto - Payroll and Benefits Software - CPS (US)",
+      "campaign_id": 29766,
+      "commission": "$225.00 per lead",
+      "epc": 1.12,
+      "reason": "Highest EPC found in Base44 offer records. Requires approval."
+    },
+    {
+      "name": "Help Injury - Lung Cancer Legal - CPL (US)",
+      "campaign_id": 31827,
+      "commission": "$375.00 per lead",
+      "epc": 0,
+      "reason": "Highest payout found in Base44 offer records. Requires approval and strict compliance."
+    },
+    {
+      "name": "Proton VPN - CPS",
+      "campaign_id": 29051,
+      "commission": "$22.50 per lead",
+      "epc": 1.02,
+      "reason": "Strong EPC and aligns with tech/privacy content. Requires approval."
+    }
+  ],
+  "content_compliance_rule": "Do not publish income claims unless they are supported by tracked revenue records or clearly marked as hypothetical/educational."
+}
